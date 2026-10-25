@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/climate-research-banner.png"
+  <img src="https://raw.githubusercontent.com/ryanconquers/climate-trends-and-paleoclimate-reconstruction/main/assets/climate-research-banner.png"
        alt="Climate Trends and Paleoclimate Reconstruction"
        width="100%">
 </div>
