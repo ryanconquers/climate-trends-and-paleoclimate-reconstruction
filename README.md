@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/climate-research-banner.png"
+       alt="Climate Trends and Paleoclimate Reconstruction"
+       width="100%">
+</div>
+
 # Global Temperature Analysis: Modern Observations and Paleoclimate Reconstruction
 
 This project explores global temperature variability using recent instrumental-era observations and a long paleoclimate reconstruction. It examines modern temperature trends, reconstructed historical patterns, ensemble uncertainty, and agreement between the reconstruction and its instrumental target. The notebooks include saved outputs and narrative interpretation.
